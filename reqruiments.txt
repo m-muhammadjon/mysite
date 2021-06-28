@@ -1,0 +1,12 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1617740417847/work
+certifi==2021.5.30
+Django @ file:///tmp/build/80754af9/django_1622711766781/work
+django-taggit==1.4.0
+Markdown==3.3.4
+Pillow==8.2.0
+psycopg2 @ file:///C:/ci/psycopg2_1612298766762/work
+psycopg2-binary==2.9.1
+py-postgresql==1.2.2
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+wincertstore==0.2
